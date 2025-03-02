@@ -83,48 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "a6f8",
-      "title": "Fake Internship",
-      "type": "Internship",
-      "location": "New Orleans, LA",
-      "description": "Do stuff",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "Fink, Inc.",
-        "description": "We do stuff (tm)",
-        "contactEmail": "test@example.com",
-        "contactPhone": "504-555-2424"
-      }
-    },
-    {
-      "id": "e3a9",
-      "title": "Another fake job",
-      "type": "Part-Time",
-      "location": "Barcelona, Spain",
-      "description": "Test",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "Foo Bar Baz",
-        "description": "asdf",
-        "contactEmail": "fake@example.com",
-        "contactPhone": "504-555-1234"
-      }
-    },
-    {
-      "id": "51ff",
-      "title": "A Fake remote job",
-      "type": "Remote",
-      "location": "asdf",
-      "description": "asdf",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "asdf",
-        "description": "asdf",
-        "contactEmail": "asdf@example.com",
-        "contactPhone": "asdf"
-      }
     }
   ]
 }
